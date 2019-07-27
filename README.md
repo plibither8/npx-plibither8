@@ -5,7 +5,7 @@
 A simple CLI to quickly display my information. If you have Node installed, run:
 
 ```sh
-npx plibiher8
+npx plibither8
 ```
 
 ...and well, that's it.
