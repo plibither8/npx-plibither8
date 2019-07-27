@@ -8,7 +8,7 @@
     "url": "mihir.ch"
   },
   "bin": {
-    "p8": "plibither8.js"
+    "plibither8": "plibither8.js"
   },
   "keywords": [
     "cli-app",
