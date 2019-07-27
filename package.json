@@ -1,0 +1,21 @@
+{
+  "name": "plibither8",
+  "version": "0.0.1",
+  "description": "npx plibither8",
+  "author": {
+    "name": "Mihir Chaturvedi",
+    "email": "plibither8@gmail.com",
+    "url": "mihir.ch"
+  },
+  "bin": {
+    "p8": "plibither8.js"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "plibither8"
+  ],
+  "preferGlobal": true,
+  "license": "MIT",
+  "dependencies": {}
+}
